@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/css/main.7fb342fa.chunk.css",
-    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/js/main.41064940.chunk.js",
-    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/js/runtime-main.b85ac54a.js",
-    "static/js/2.cecf9694.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/js/2.cecf9694.chunk.js",
-    "static/js/3.37769589.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/js/3.37769589.chunk.js",
-    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/index.html",
-    "static/js/2.cecf9694.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.200803/static/js/2.cecf9694.chunk.js.LICENSE.txt"
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/css/main.7fb342fa.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/js/main.1af32629.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/js/runtime-main.38cd4934.js",
+    "static/js/2.cecf9694.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/js/2.cecf9694.chunk.js",
+    "static/js/3.37769589.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/js/3.37769589.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/index.html",
+    "static/js/2.cecf9694.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.201201/static/js/2.cecf9694.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b85ac54a.js",
+    "static/js/runtime-main.38cd4934.js",
     "static/js/2.cecf9694.chunk.js",
     "static/css/main.7fb342fa.chunk.css",
-    "static/js/main.41064940.chunk.js"
+    "static/js/main.1af32629.chunk.js"
   ]
 }
