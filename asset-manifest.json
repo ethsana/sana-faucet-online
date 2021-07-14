@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/css/main.3697b5af.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/js/main.328995ea.chunk.js",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/js/runtime-main.c16312f4.js",
+    "static/js/2.cecf9694.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/js/2.cecf9694.chunk.js",
+    "static/js/3.37769589.chunk.js": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/js/3.37769589.chunk.js",
+    "index.html": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/index.html",
+    "static/js/2.cecf9694.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/ethsana/sana-faucet-online@20210714.193655/static/js/2.cecf9694.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c16312f4.js",
+    "static/js/2.cecf9694.chunk.js",
+    "static/css/main.3697b5af.chunk.css",
+    "static/js/main.328995ea.chunk.js"
+  ]
+}
